@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>b2bmodule</name>
+    <displayName><![CDATA[B2B Module]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[This module will add a B2B action button on the products]]></description>
+    <author><![CDATA[Mitesh Nile]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+</module>

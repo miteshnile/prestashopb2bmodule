@@ -1,0 +1,1 @@
+# A module for B2B functionality
